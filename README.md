@@ -3,8 +3,8 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Seohyun Lee, a growing developer. 🌱 <br>
-I’m interested in Frontend. 👀 
-I’m currently learning React...💫
+I’m interested in Frontend. 👀 <br>
+I’m currently learning React...💫<br>
 </p>
 
 <p align="center">
