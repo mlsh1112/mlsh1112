@@ -17,7 +17,7 @@ I’m currently learning React...💫<br>
   
 <h1>SKILLS</h1>
 <h3>FrontEnd</h3>
-Javascript(ES6), React, Redux, HTML/CSS, React Native
+Javascript, React, Redux, HTML/CSS, React Native
 <h3>BackEnd</h3>
 NodsJS(ExpressJS), MongoDB, AWS, MySQL<br/><br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmlsh1112%2Fhit-counter&count_bg=%23FFE074&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
