@@ -15,7 +15,7 @@ I’m currently learning React...💫<br>
   
   
   
-<h1>SKILLS</h1>
+<h1>SKILLS 🛠</h1>
 <h3>FrontEnd</h3>
 Javascript, React, Redux, HTML/CSS, React Native
 <h3>BackEnd</h3>
