@@ -22,16 +22,7 @@ Javascript, React, Redux, HTML/CSS, React Native
 NodsJS(ExpressJS), MongoDB, AWS, MySQL<br/><br/><br/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmlsh1112%2Fhit-counter&count_bg=%23FFE074&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<h1>Projects</h1>
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Name</th>
-      <th>Duration</th>
-      <th>Tech</th>
-    </tr>
-  </thead>
-</table>
+
 <!---
 mlsh1112/mlsh1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
